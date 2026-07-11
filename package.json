@@ -1,0 +1,24 @@
+{
+  "name": "ridex",
+  "version": "1.0.0",
+  "description": "RideX is a ride-hailing prototype with an Express application, EJS views, controller-based rider and driver flows, and a Solidity contract artifact.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyamshah112/RideX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/priyamshah112/RideX/issues"
+  },
+  "homepage": "https://github.com/priyamshah112/RideX#readme"
+}
