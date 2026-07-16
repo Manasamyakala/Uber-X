@@ -1,6 +1,4 @@
 const ethCrypto=require('eth-crypto');
-//const abi=require("../family_tree_details").abi;
-// const address=require("../family_tree_details").address;
 const HDwalletprovider=require("truffle-hdwallet-provider");
 const Web3=require("web3");
 const session=require("express-session");
