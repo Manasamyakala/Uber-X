@@ -6,8 +6,6 @@ var mongoose=require('mongoose');
 const abi=require("../user_contract").abi2;
 const address=require("../user_contract").address2;
 
-
-
 require("dotenv").config();
 const Profiles = require('../models/Profiles');
 
