@@ -1,8 +1,6 @@
 pragma solidity ^0.4.0;
 contract User{
-    
     struct Details{
-    
         string privateKey;
         string password;
         string phoneNumber;
@@ -10,7 +8,6 @@ contract User{
         string vehicleNo;
         string name;
         string category;
-    
     }
     struct Rides{
         string driver;
