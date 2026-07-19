@@ -1,23 +1,23 @@
-﻿# 🚖 Uber X - Decentralized Ride-Hailing Web3 Application
+﻿# Uber X - Decentralized Ride-Hailing Web3 Application
 
 Uber X is a decentralized ride-hailing platform built on Ethereum blockchain that enables direct interaction between riders and drivers without relying on centralized intermediaries like Uber or Ola. Smart contracts automate ride booking, payments, and ride completion while ensuring transparency, security, and trust.
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🔐 MetaMask Wallet Authentication
-- 🚗 Driver Registration
-- 👤 Rider Registration
-- 📍 Ride Booking
-- ✅ Ride Acceptance
-- 💰 Ethereum-Based Payments
-- 📜 Smart Contract-Based Transactions
-- 🔒 Decentralized Data Storage
-- ⭐ Reputation & Rating System
-- 📊 Ride History
-- 💸 Transparent Pricing
-- ⚡ Peer-to-Peer Ride Matching
+-  MetaMask Wallet Authentication
+- Driver Registration
+-  Rider Registration
+-  Ride Booking
+-  Ride Acceptance
+-  Ethereum-Based Payments
+-  Smart Contract-Based Transactions
+-  Decentralized Data Storage
+-  Reputation & Rating System
+-  Ride History
+-  Transparent Pricing
+-  Peer-to-Peer Ride Matching
 
 ---
 
@@ -39,10 +39,6 @@ Uber X is a decentralized ride-hailing platform built on Ethereum blockchain tha
 - Node.js
 - Express.js
 
-### Development Tools
-- Truffle
-- Ganache
-
 ### Install Dependencies
 
 ```bash
@@ -51,7 +47,7 @@ npm install
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 ### Start Ganache
 
@@ -109,39 +105,9 @@ npm run dev
 
 ---
 
-## 👨‍💻 Workflow
 
-```
-Rider Login
-      │
-      ▼
-Connect MetaMask
-      │
-      ▼
-Book Ride
-      │
-      ▼
-Smart Contract Created
-      │
-      ▼
-Driver Accepts Ride
-      │
-      ▼
-Ride Starts
-      │
-      ▼
-Ride Completed
-      │
-      ▼
-Payment Released Automatically
-      │
-      ▼
-Ratings Updated
-```
 
----
-
-## 🔐 Smart Contract Responsibilities
+##  Smart Contract Responsibilities
 
 - Register Riders
 - Register Drivers
@@ -155,37 +121,7 @@ Ratings Updated
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here.
-
-Example:
-
-```
-screenshots/
-    home.png
-    login.png
-    rider-dashboard.png
-    driver-dashboard.png
-```
-
----
-
-## 🚀 Future Enhancements
-
-- Live GPS Tracking
-- Google Maps Integration
-- Polygon Deployment
-- IPFS File Storage
-- DAO Governance
-- AI-Based Dynamic Pricing
-- NFT Driver Identity
-- Multi-Currency Payments
-- Reputation-Based Discounts
-
----
-
-## 🎯 Advantages
+##  Advantages
 
 - Fully Decentralized
 - No Central Authority
