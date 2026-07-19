@@ -21,7 +21,7 @@ Uber X is a decentralized ride-hailing platform built on Ethereum blockchain tha
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - HTML
